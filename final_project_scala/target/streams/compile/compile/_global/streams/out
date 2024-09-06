@@ -1,0 +1,7 @@
+[0m[[0m[31merror[0m] [0m[0m/home/hdadmin/final_project_scala/src/main/scala/facebook_graph.scala:4:25: object mllib is not a member of package org.apache.spark[0m
+[0m[[0m[31merror[0m] [0m[0mimport org.apache.spark.mllib.stat.Statistics[0m
+[0m[[0m[31merror[0m] [0m[0m                        ^[0m
+[0m[[0m[31merror[0m] [0m[0m/home/hdadmin/final_project_scala/src/main/scala/facebook_graph.scala:107:27: value stddev is not a member of org.apache.spark.rdd.RDD[Double][0m
+[0m[[0m[31merror[0m] [0m[0m    val stddev = prValues.stddev[0m
+[0m[[0m[31merror[0m] [0m[0m                          ^[0m
+[0m[[0m[31merror[0m] [0m[0mtwo errors found[0m
